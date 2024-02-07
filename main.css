@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenier{
+    width: 80%;
+    height: 85vh;
+    
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+}
+
+.cards{
+    width: 30%;
+    height: 70vh;
+    padding: 10px;
+    margin: 10px;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    border: 3px solid rgb(221, 209, 209);
+    border-radius: 10px;
+    
+    
+}
+
+.cards1{
+    width: 30%;
+    height: 70vh;
+    padding: 10px;
+    margin: 10px;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+    border: 3px solid rgb(221, 209, 209);
+    border-radius: 10px;
+    
+}
+
+.avatar1{
+    font-size: 70px;
+    color: blueviolet;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.avatar2{
+    font-size: 70px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.avatar3{
+    font-size: 70px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+p{
+    font-size: 55px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.j1{
+    font-size: 20px;
+    color: #95A1BB;
+    text-align: center;
+}
+
+
+.j2{
+    font-size: 30px;
+    margin-top: 80px;
+    background-color: blueviolet;
+    color: white;
+    padding: 15px;
+}
+.j3{
+    font-size: 30px;
+    margin-top: 80px;
+    border: 2px solid blueviolet;
+    color: blueviolet;
+    padding: 20px;
+    background-color: white;
+}
+.j4{
+    font-size: 30px;
+    margin-top: 80px;
+    background-color: white;
+
+    color: #95A1BB;
+    
+    padding: 15px;
+}
+.cards:hover{
+    border: 3px solid blue;
+}
+
+.cards1:hover{
+    border: 3px solid blue;
+    
+}
